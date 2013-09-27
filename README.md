@@ -1,6 +1,21 @@
-Bootstrap-switch v.1.8
-========================
+Bootstrap 3 switch
+==================
 
+This was forked from [nostalgiaz](https://github.com/nostalgiaz/bootstrap-switch).
+The goal was to make it's look compatible with Bootstrap 3 and modify the build-process to be based on make.
+
+Now we have:
+
+* Bootstrap 3 look
+* make based build-process
+* Updated examples
+
+To get started, just type ``make deps``, which will install the required dependencies. Then you can make changes to the files in the ``src``-folder and build the minified css and js files - which will be placed in the ``build``-folder - with the command ``make build``. The example-site will then be updated immediately and you can see your changes.
+
+Don't hesitate if you have any questions or useful pull-requests.
+
+##Original Readme (partial):
+----------------------------
 You can now also use radio buttons and checkboxes as switches.
 
 
