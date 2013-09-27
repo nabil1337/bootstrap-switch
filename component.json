@@ -1,8 +1,8 @@
 {
-  "name"        : "bootstrap-switch",
-  "description" : "Unofficial bootstrap switch",
-  "version"     : "1.8.0",
-  "main"        : "static/js/bootstrap-switch.js",
+  "name"        : "bootstrap3-switch",
+  "description" : "bootstrap3 switch",
+  "version"     : "0.1.0",
+  "main"        : "build/js/bootstrap-switch.js",
   "ignore": [ 
     "examples"
   ],
@@ -10,6 +10,6 @@
     "jquery": "~1.9.0"
   },
   "scripts": [
-    "static/js/bootstrap-switch.js"
+    "build/js/bootstrap-switch.min.js"
   ]
 }
