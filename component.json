@@ -1,9 +1,9 @@
 {
   "name"        : "bootstrap3-switch",
   "description" : "bootstrap3 switch",
-  "version"     : "0.1.0",
-  "main"        : "build/js/bootstrap-switch.js",
-  "ignore": [ 
+  "version"     : "0.1.1",
+  "main"        : "build/js/bootstrap-switch.min.js",
+  "ignore": [
     "examples"
   ],
   "dependencies": {
